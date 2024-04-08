@@ -7,7 +7,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - My motivation for this project was to learn the basics as well as implementing them into a project
 - I built this to help me study and stay organized
 - This solves having messy notes because they are organized into catagories 
-- i learn the foundations of HTML, CSS, Git, and JavaScript
+- I learn the foundations of HTML, CSS, Git, and JavaScript
 
 
 ## Installation
